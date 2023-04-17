@@ -42,4 +42,3 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asap1chmil&show_icons=true&locale=en" alt="asap1chmil" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asap1chmil&" alt="asap1chmil" /></p>
