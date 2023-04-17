@@ -34,11 +34,8 @@ ProSki - тренировки по лыжам в Нижнем Новгороде
 Открыть
 devto.svg
 raw.githubusercontent.com
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>\
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 <h3>My Codewars profile</h3>
 <img src="https://sun9-60.userapi.com/impg/DrsvvUQmyYV5WWjpMg-0fsxBdzp544YMeRXbIw/DlyTDDLZY-A.jpg?size=454x36&quality=95&sign=a98308d55fe6221f97241196b4d99de6&type=album"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asap1chmil&show_icons=true&locale=en&layout=compact" alt="asap1chmil" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asap1chmil&show_icons=true&locale=en" alt="asap1chmil" /></p>
 
