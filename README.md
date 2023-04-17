@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Artem</h1>
 <h3 align="center">A passionate frontend developer from Saint-Petersburg, Russia</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/lXiRzPb8C5JTJcfPq/giphy.gif?cid=ecf05e47ah4l9br1g5y0ci56w2uygvvtpiwx69rzbbw72oug&rid=giphy.gif&ct=g"/>
