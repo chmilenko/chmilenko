@@ -3,15 +3,15 @@
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/lXiRzPb8C5JTJcfPq/giphy.gif?cid=ecf05e47ah4l9br1g5y0ci56w2uygvvtpiwx69rzbbw72oug&rid=giphy.gif&ct=g"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asap1chmil&label=Profile%20views&color=0e75b6&style=flat" alt="asap1chmil" /> </p>
 
-- 🔭🔭 I’m currently working on [Pro Ski](https://vk.com/ski_club_nn)
+- 🔭🔭 I’m currently working on [Evercode](https://evercodelab.com/ru)
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Assembly language**
 
 - 👯 I’m looking to collaborate on **facebook**
 
 - 🤝 I’m looking for help with **spaceX**
 
-- 💬 Ask me about **React, Redux Toolkit**
+- 💬 Ask me about **React, Redux Toolkit, Next, Nuxt, Pinia, Zustand, MobX, Vuetify, MUI, Bootstrap, MapGL**
 
 - 📫 How to reach me **artem.shirota@gmail.com**
 
