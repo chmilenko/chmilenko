@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://vk.com/away.php?utf=1&to=https%3A%2F%2Ft.me%2Fchmilb" target="blank"><img align="center" src="https://mrtext.ru/wp-content/uploads/2022/04/5-40.jpg" alt="chmil" height="30" width="40" /></a>
+<a href="https://t.me/chmilenko" target="blank"><img align="center" src="https://mrtext.ru/wp-content/uploads/2022/04/5-40.jpg" alt="chmil" height="30" width="40" /></a>
 <a href="https://vk.com/away.php?utf=1&to=https%3A%2F%2Finstagram.com%2Flame.chmil%3Figshid%3DYmMyMTA2M2Y%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lame.chmil" height="30" width="40" /></a>
 </p>
 
